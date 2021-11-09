@@ -1,0 +1,6 @@
+Here's my file called "text.txt"
+This is line 2
+
+After an empty line, this is line 4.
+
+Bye for now!
